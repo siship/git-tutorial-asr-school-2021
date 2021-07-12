@@ -33,11 +33,11 @@ You can see all the configuration done for your git account from the .gitconfig 
 gedit .gitconfig
 ```
 
-Clone a repository
-```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git```
+- Clone a repository
+  - ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git```
 
-To specify a directory, where you want clone the repository (e.g., I want download in ```/home/sishir/ASRREPO```)
-```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git /home/sishir/ASRREPO```
+- To specify a directory, where you want clone the repository (e.g., I want download in ```/home/sishir/ASRREPO```)
+  - ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git /home/sishir/ASRREPO```
 
 - Create GitHub Repository
 - Creat a file
