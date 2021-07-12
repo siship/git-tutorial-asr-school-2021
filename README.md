@@ -48,22 +48,21 @@ To specify a directory, where you want clone the repository (e.g., I want downlo
 - What if other person wants to contribute with your project
   - Fork and create pull request
 
-- This command lists all the files that have to be committed.
+- Command to list all the files that have to be committed
   - ```git status```
-- This command lists all the local branches in the current repository.
+- Command to lists all the local branches in the current repository
   - ```git branch``` 
-- This command creates a new branch.
-  - ```git branch [branch name]  ```
-- The git add command adds a change in the working directory
+- Command to create a new branch
+  - ```git branch [branch name]```
+- Command to add a change in the working directory
   - ```git add (file names)``` Or ```git add .```
-- This command records or snapshots the file permanently in the version history
+- Command that record or snapshot a file permanently in the version history
   - ```git commit -m "(committed message)"```
-- This command sends the committed changes of master branch to your remote repository.
+- Command to send the committed changes of master branch to my remote repository
   - ```git push -u origin master ```
-- This command shows the differences between the two branches mentioned
+- Command to show the differences between two branches mentioned
   - ```git diff [first branch] [second branch]```
-
-- This command fetches and merges changes on the remote server to your working directory.
+- Command to fetch and merge changes on the remote server to my working directory
   - ```git pull [Repository Link] ```
 
 For creating a new branch
