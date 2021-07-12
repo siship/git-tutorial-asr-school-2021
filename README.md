@@ -1,4 +1,4 @@
-# Git tutorial | [IEEE ASR Summer School 2021](https://sites.google.com/iitdh.ac.in/vssasr2021)
+# Git tutorial | [IEEE SPS Summer School 2021](https://sites.google.com/iitdh.ac.in/vssasr2021) on ASR
 
 ## What is git?
 
