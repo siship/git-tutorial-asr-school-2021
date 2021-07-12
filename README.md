@@ -8,7 +8,6 @@ Git is a distributed version control system. It facilates merging of different s
 - Trunk based development
   - Working in different versions simultaneously
 
-
 ## Install Git in your PC
 - Linux
 ```shell
@@ -78,3 +77,9 @@ git checkout main
 git merge testbranch
 git push
 ```
+Resources:
+- https://git-scm.com/docs/gittutorial
+- https://www.tutorialspoint.com/git/index.htm
+- https://www.mit.edu/~amidi/teaching/data-science-tools/tutorial/working-with-git/
+- http://6.470.scripts.mit.edu/2014/slides/git.pdf
+- https://www.slideshare.net/bcbbslides/introduction-to-git-and-github-72514916
