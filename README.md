@@ -9,7 +9,7 @@ Git is a distributed version control system. It facilates merging of different s
   - Working in different versions simultaneously
 
 
-Install Git in your PC
+## Install Git in your PC
 - Linux
 ```shell
 sudo apt-get update
@@ -20,7 +20,7 @@ git --version (for checking Git version)
   - Download Git installer from following link and install
   - https://gitforwindows.org/
 
-Set-up Git in your PC
+## Set-up Git in your PC
 ```shell
 git config --global user.name "username" 
 git config --global user.email "youremail@domain.com" 
