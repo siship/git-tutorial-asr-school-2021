@@ -33,12 +33,7 @@ You can see all the configuration done for your git account from the .gitconfig 
 gedit .gitconfig
 ```
 
-- Clone a repository
-  - ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git```
-
-- To specify a directory, where you want clone the repository (e.g., I want download in ```/home/sishir/ASRREPO```)
-  - ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git /home/sishir/ASRREPO```
-
+## Working in your GitHub account
 - Create GitHub Repository
 - Creat a file
   - commit changes
@@ -48,6 +43,11 @@ gedit .gitconfig
 - What if other person wants to contribute with your project
   - Fork and create pull request
 
+## Working from the terminal/cmd
+- Clone a repository
+  - ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git```
+- To specify a directory, where you want clone the repository (e.g., I want download in ```/home/sishir/ASRREPO```)
+  - ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git /home/sishir/ASRREPO```
 - Command to list all the files that have to be committed
   - ```git status```
 - Command to lists all the local branches in the current repository
@@ -65,14 +65,14 @@ gedit .gitconfig
 - Command to fetch and merge changes on the remote server to my working directory
   - ```git pull [Repository Link] ```
 
-For creating a new branch
+### For creating a new branch
 ```shell
 git checkout -b testbranch
 git add .
 git commit -m "test"
 git push origin testbranch
 ```
-For merging with main/master branch
+### For merging with main/master branch
 ```shell
 git checkout main
 git merge testbranch
