@@ -2,7 +2,7 @@
 
 ## What is git?
 
-[Git](https://git-scm.com/) is a distributed version control system. It facilates merging of different source codes from different developers. And codes are distributed among developers. Make a copy of the repository in your local machine and work offline, and then push your changes to the server. 
+>[Git](https://git-scm.com/) is a distributed version control system. It facilates merging of different source codes from different developers. And codes are >distributed among developers. Make a copy of the repository in your local machine and work offline, and then push your changes to the server. 
 
 - Distributed version control system
 - Trunk based development
